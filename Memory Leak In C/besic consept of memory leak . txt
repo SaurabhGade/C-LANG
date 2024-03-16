@@ -1,0 +1,13 @@
+1) Dynamic Memory Allocation is a way in which the size of a data structure can be changed during the runtime.
+
+2)Memory assigned to program in a tipical architecture can be broken down into four segments:
+1)CODE
+2)Static / globle veriable.
+3)Stack
+4)Heap
+
+3)When we allocate the Memory Dynamically using (DMA) then memory will allocate in Heap
+and we use heap use without freeing memory they overall memory usage keep increasing and.
+These sisution is cause memory leak . 
+
+4) To avoid memory leak ie the progrmmer should always free Allocated memory when not need.
